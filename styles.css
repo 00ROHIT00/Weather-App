@@ -24,7 +24,6 @@ body {
     padding : 40px 35px;
     margin-bottom: 50px;;
     text-align: center;
-    height : 500px;
 }
 
 .search {
@@ -113,6 +112,17 @@ font-size: 28px;
 margin-top: -6px;
 }
 
+.weather {
+    display : none;
+}
+
+.error{
+    text-align: center;
+    margin-left: 10px;
+    font-size: 24px;
+    margin-top: 10px;
+    display : none;
+}
 
 
 
